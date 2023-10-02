@@ -1,10 +1,12 @@
 #Introduction
+
 ##BOOKSTORE API Documentation
-###Base URL 
+
+##Base URL 
 The base URL for this API is: `https://node-four-deploying.onrender.com`
 
 
-###Owner Sign-up and Login
+###Owner Sign-up and log in.
 
 ##Sign-up Owner
 Endpoint: `/api/owner/signup`
