@@ -1,14 +1,14 @@
-#Introduction
+# Introduction
 
-##BOOKSTORE API Documentation
+## BOOKSTORE API Documentation
 
-##Base URL 
+## Base URL 
 The base URL for this API is: `https://node-four-deploying.onrender.com`
 
 
-###Owner Sign-up and log in.
+### Owner Sign-up and log in.
 
-##Sign-up Owner
+## Sign-up Owner
 Endpoint: `/api/owner/signup`
 Method: POST
 
@@ -24,7 +24,7 @@ Request
 `password` (string, required): The owner's password.
 
 
-###Response (Success - 201 Created)
+### Response (Success - 201 Created)
 
 `{
   "message": "Owner creation successful",
