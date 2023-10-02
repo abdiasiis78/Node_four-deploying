@@ -10,12 +10,12 @@ The base URL for this API is: `https://node-four-deploying.onrender.com`
 Endpoint: `/api/owner/signup`
 Method: POST
 
-`Request`
-```{
+Request
+{
   "name": "ali Doli",
   "email": "Doli@example.com",
   "password": "securepassword"
-}```
+}
 
 `name` (string, required): The name of the owner.
 `email` (string, required): The email address of the owner.
